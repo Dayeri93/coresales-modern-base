@@ -1,0 +1,17 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de editores
+.vscode/
+.idea/
+
+# Dependencias (si usas Node.js / npm más adelante)
+node_modules/
+
+# Archivos de entorno con datos sensibles/claves API
+.env
+.env.local
+
+# Archivos de registros y logs
+*.log# Archivos a ignorar
